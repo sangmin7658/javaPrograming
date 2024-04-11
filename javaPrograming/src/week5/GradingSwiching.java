@@ -28,8 +28,8 @@ public class GradingSwiching {
 		default:
 			grade="F";
 		}
-	 System.out.println("학점은"+grade+"입니다");
-	 scanner.close();
+			System.out.println("학점은"+grade+"입니다");
+		scanner.close();
 	 
 	}
 
