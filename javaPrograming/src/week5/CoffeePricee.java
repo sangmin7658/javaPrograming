@@ -2,7 +2,7 @@ package week5;
 
 import java.util.Scanner;
 
-public class CoffeePri {
+public class CoffeePricee {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

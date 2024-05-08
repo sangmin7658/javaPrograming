@@ -15,7 +15,7 @@ public class WhileSample {
 		while(n != -1) {
 			           sum += n;
 			           count++;
-			           n = scanner.nextInt()									
+			           n = scanner.nextInt();									
 	                  }
 	    if(count == 0) {
 		    System.out.println("입력된 수가 없습니다.");
