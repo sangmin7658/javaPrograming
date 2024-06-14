@@ -19,7 +19,7 @@
 	
 			increase(pizza);
 	
-			System.out.println(pizza.radius);
+			System.out.println(pizza.radius);--
 		}
 		static void increase(Circles m) {
 			m.radius++;
